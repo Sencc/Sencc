@@ -9,7 +9,7 @@ I'm Sencc! Do :star2: my repository if you find my project interesting, at least
 <!-- Your badges -->
 [![Gmail](https://img.shields.io/badge/-Sencc-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:1176927355@qq.com)
 
-<img width="500" height="auto" align="right" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sencc&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sencc)
+<img width="450" height="auto" align="right" alt="" src="https://github-readme-stats.vercel.app/api?username=Sencc">
+<!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sencc) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sencc&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sencc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
